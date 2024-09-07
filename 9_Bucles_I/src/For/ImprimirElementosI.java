@@ -1,5 +1,6 @@
+package For;
 
-public class ImprimirElementos {
+public class ImprimirElementosI {
 
     public static void main(String[] args) {
         //Escribe un programa que recorra un array de enteros y muestre cada elemento en una línea separada. El tamaño, tipo de datos y la información a contener pueden ser de tu elección.

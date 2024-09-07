@@ -1,5 +1,6 @@
+package For;
 
-public class ValorMin {
+public class ValorMinI {
 
     public static void main(String[] args) {
         //Escribe un programa que recorra un array de enteros y encuentre el valor mínimo presente en el array. El tamaño y los números  a contener pueden ser de tu elección.

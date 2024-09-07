@@ -1,5 +1,6 @@
+package For;
 
-public class OrdenInverso {
+public class OrdenInversoI {
 
     public static void main(String[] args) {
         //Escribe un programa que recorra un array de enteros y los imprima en orden inverso, comenzando desde el último elemento.. El tamaño y los números  a contener pueden ser de tu elección.
