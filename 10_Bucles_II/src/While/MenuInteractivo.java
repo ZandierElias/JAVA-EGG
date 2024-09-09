@@ -35,7 +35,7 @@ public class MenuInteractivo {
                 default ->
                     System.out.println("Opcion no válida. Por favor , seleccione una opcion del menu");
             }
+            scanner.close();
         }
-        scanner.close();
     }
 }
